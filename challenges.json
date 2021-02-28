@@ -1,0 +1,62 @@
+[
+  {
+    "type": "body",
+    "description": "Extienda uno de sus brazos con la palma girada y tire de los dedos durante 10 segundos por mano.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Extiende su brazo contra su pecho y tire de él con el otro brazo durante 10 segundos por mano.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Tire del cuello con la mano hacia la derecha y hacia la izquierda, permaneciendo en posición durante unos segundos.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Con ambas manos en la parte posterior de la cabeza, bájela hacia abajo, estirando la parte posterior del área.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Cruza las piernas y desciende con las manos rectas hacia el suelo. Repite el movimiento con la otra pierna al frente.",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "description": "Sentado, abra las piernas e intente tocar el suelo con las palmas, repita 3 veces durante 5 segundos.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Tire de la rodilla contra el pecho y sostenga, cambie de pierna después de 10 segundos.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Sentado, cruza una pierna e inclina el torso hacia adelante, cambia de pierna después de 10 segundos.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos, depois abra normalmente.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "En un entorno abierto, mire lo más lejos que pueda en cuatro direcciones durante 3 segundos, simplemente mueva los ojos. Repite 3 veces.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Con los pulgares, masajee el área debajo de las cejas con un movimiento circular durante 15 segundos.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "De pie, gire la cintura lo más que pueda hacia la izquierda, mantenga durante cinco segundos. Repita a la derecha.",
+    "amount": 90
+  }
+]
